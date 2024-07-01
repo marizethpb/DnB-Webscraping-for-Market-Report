@@ -17,7 +17,7 @@ For each company we need:
 Getting the data needed is a 2-part step. We would need to extract the list of the companies from a directory and extract
 initial information from the same website and then log in into Finance Analytics account for further company information.
 
-Scraping Part 1: 
+### Scraping Part 1: 
  - For this repo, we have a list of companies for Medical Equipment and Supplies Manufacturing industry in China. 
    So, we extract every company name, state in which the company is located, and the DnB directory link 
    in every page of directory.
@@ -27,7 +27,7 @@ Scraping Part 1:
 
 ![DnB Part1](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/dc5cf6ca-6bd4-4308-9183-8661b642c108)
 
-Scraping Part 2: 
+### Scraping Part 2: 
  - For this part, we will log in into DnB Finance Analytics to get the remaining details we need. 
  - Then we search every company in Scraping Part 1. We will use advanced search for this to 
    essentially make the company float firstly on search result.
