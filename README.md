@@ -32,7 +32,7 @@ PROCESS:
        - After all the data is gathered, we will consolidate Scraping Parts 1 & 2
          and export it to excel file.
 
-      ![Dnb_Webscraping2](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/b568f7be-1c22-4bb2-9823-7375e8716695)
+  ![Dnb_Webscraping2](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/b568f7be-1c22-4bb2-9823-7375e8716695)
 
 
 Did this first on Power Automate then tried doing it in Python too because:
