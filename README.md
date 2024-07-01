@@ -1,4 +1,4 @@
-GOAL: 
+![DnB Part 1](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/1c67baee-5648-44e6-a817-591574d9f80f)GOAL: 
       Gather data from the top companies listed in Business Directory for all countries and industries possible.
       This data will be used to make a market report and projections for strategic planning of business. 
         
@@ -24,6 +24,8 @@ PROCESS:
        - We would go through every DnB directory link as this will lead us into the company's address and website.
        - For this part we will have the companies name, state, country, address, and the company website.
 
+![DnB Part 1](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/d4447274-c0b4-4b5d-b2bf-d496cf5a5bf2)
+
       Scraping Part 2: 
        - For this part, we will log in into DnB Finance Analytics to get the remaining details we need. 
        - Then we search every company in Scraping Part 1. We will use advanced search for this to 
@@ -32,7 +34,7 @@ PROCESS:
        - After all the data is gathered, we will consolidate Scraping Parts 1 & 2
          and export it to excel file.
 
-  ![Dnb_Webscraping2](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/b568f7be-1c22-4bb2-9823-7375e8716695)
+![DnB Part 2](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/fab637cb-2140-443a-b1fd-0c796aaddb3c)
 
 
 Did this first on Power Automate then tried doing it in Python too because:
