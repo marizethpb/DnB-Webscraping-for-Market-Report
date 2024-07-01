@@ -23,7 +23,7 @@ PROCESS:
          in every page of directory.
        - We would go through every DnB directory link as this will lead us into the company's address and website.
        - For this part we will have the companies name, state, country, address, and the company website.
-      
+
       Scraping Part 2: 
        - For this part, we will log in into DnB Finance Analytics to get the remaining details we need. 
        - Then we search every company in Scraping Part 1. We will use advanced search for this to 
@@ -31,6 +31,9 @@ PROCESS:
        - This step will rely heavily on web automation to scrape data.
        - After all the data is gathered, we will consolidate Scraping Parts 1 & 2
          and export it to excel file.
+
+      ![Dnb_Webscraping2](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/b568f7be-1c22-4bb2-9823-7375e8716695)
+
 
 Did this first on Power Automate then tried doing it in Python too because:
   - not much flexibility on extraction by pages
