@@ -1,7 +1,7 @@
 # GOAL 
-      Gather data from the top companies listed in Business Directory for all countries and industries possible.
-      This data will be used to make a market report and projections for strategic planning of business. 
-        
+Gather data from the top companies listed in Business Directory for all countries and industries possible.
+This data will be used to make a market report and projections for strategic planning of business. 
+  
       So, for each company we need:
         - Company name
         - State
@@ -14,8 +14,8 @@
         - Number of Employees
 
 ## PROCESS: 
-      Getting the data needed is a 2-part step. We would need to extract the list of the companies from a directory and extract
-      initial information from the same website and then log in into Finance Analytics account for further company information.
+Getting the data needed is a 2-part step. We would need to extract the list of the companies from a directory and extract
+initial information from the same website and then log in into Finance Analytics account for further company information.
 
       Scraping Part 1: 
        - For this repo, we have a list of companies for Medical Equipment and Supplies Manufacturing industry in China. 
@@ -38,7 +38,7 @@
 ![DnB Part2](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/130e76a9-4d62-40bb-8171-bb36e4c20b78)
 
 
-## Did this first on Power Automate then tried doing it in Python too because:
+### Did this first on Power Automate then tried doing it in Python too because:
   - not much flexibility on extraction by pages
   - I can't use my laptop when I run the flow
   - python is fun
