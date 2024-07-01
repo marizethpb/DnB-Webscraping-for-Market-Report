@@ -1,4 +1,4 @@
-![DnB Part 1](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/1c67baee-5648-44e6-a817-591574d9f80f)GOAL: 
+# GOAL 
       Gather data from the top companies listed in Business Directory for all countries and industries possible.
       This data will be used to make a market report and projections for strategic planning of business. 
         
@@ -13,7 +13,7 @@
         - Line of Business
         - Number of Employees
 
-PROCESS: 
+## PROCESS: 
       Getting the data needed is a 2-part step. We would need to extract the list of the companies from a directory and extract
       initial information from the same website and then log in into Finance Analytics account for further company information.
 
@@ -37,7 +37,7 @@ PROCESS:
 ![DnB Part 2](https://github.com/marizethpb/DnB-Webscraping-for-Market-Report/assets/79640443/fab637cb-2140-443a-b1fd-0c796aaddb3c)
 
 
-Did this first on Power Automate then tried doing it in Python too because:
+## Did this first on Power Automate then tried doing it in Python too because:
   - not much flexibility on extraction by pages
   - I can't use my laptop when I run the flow
   - python is fun
